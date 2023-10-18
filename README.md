@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab]
 
-<h2>👨‍💻 Certificationns:</h2>
+<h2>📃 Certificationns:</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
